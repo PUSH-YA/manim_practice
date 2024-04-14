@@ -14,7 +14,7 @@ class CircleAnim(Scene):
         self.play(Transform(circle, circle.copy().shift(2*UP + 2*RIGHT)), run_time=2)
         self.play(Transform(circle, circle.copy().scale(0.5)), run_time=2)
         self.wait(1)
-        self.play(circle.animate.set_color(RED), run_time=2)  
+        self.play(circle.animate.set_color(BLUE), run_time=2)  
         self.wait(1)
         self.play(circle.animate.set_opacity(0.5), run_time=2)  
 
@@ -25,4 +25,4 @@ if __name__ == "__main__":
 
     # Start the second animation
     circle_anim_scene = CircleAnim()
-    circle_anim_scene.render(preview=True)
+    circle_anim_scene.render()
