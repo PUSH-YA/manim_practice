@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/MINE/NERD STUFF/new skills/3. DSCI/LEARNING_manim/media/videos/1080p60/partial_movie_files/CircleAnim/3977891868_1117166225_223132457.mp4'
+file 'file:C:/MINE/NERD STUFF/new skills/3. DSCI/LEARNING_manim/media/videos/1080p60/partial_movie_files/CircleAnim/2852726489_3893938521_754739717.mp4'
+file 'file:C:/MINE/NERD STUFF/new skills/3. DSCI/LEARNING_manim/media/videos/1080p60/partial_movie_files/CircleAnim/2852726489_79787284_754739717.mp4'
+file 'file:C:/MINE/NERD STUFF/new skills/3. DSCI/LEARNING_manim/media/videos/1080p60/partial_movie_files/CircleAnim/2852726489_3890345977_639140921.mp4'
+file 'file:C:/MINE/NERD STUFF/new skills/3. DSCI/LEARNING_manim/media/videos/1080p60/partial_movie_files/CircleAnim/2852726489_3705234136_4084595033.mp4'
+file 'file:C:/MINE/NERD STUFF/new skills/3. DSCI/LEARNING_manim/media/videos/1080p60/partial_movie_files/CircleAnim/2852726489_3890345977_3466384238.mp4'
+file 'file:C:/MINE/NERD STUFF/new skills/3. DSCI/LEARNING_manim/media/videos/1080p60/partial_movie_files/CircleAnim/2852726489_1910105493_1719331389.mp4'
